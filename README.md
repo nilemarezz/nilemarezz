@@ -41,12 +41,10 @@
 
 ---
 
-<details>
-  <summary>:zap: Github Stats</summary>
+### Github Stat:
 
-  <img align="left" alt="nilemarezz's Github Stats" src="https://github-readme-stats.nilemarezz.vercel.app/api?username=nilemarezz&show_icons=true&hide_border=true" />
+<img align="left" alt="nilemarezz's Github Stats" src="https://github-readme-stats.vercel.app/api?username=nilemarezz&show_icons=true&hide_border=true" />
 
-</details>
 
 [website]: http://my-portfolio-matas.herokuapp.com/
 [facebook]: https://www.facebook.com/nilematas.paosriwong

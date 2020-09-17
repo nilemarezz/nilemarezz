@@ -45,6 +45,8 @@
 
 <img align="left" alt="nilemarezz's Github Stats" src="https://github-readme-stats.vercel.app/api?username=nilemarezz&show_icons=true&hide_border=true" />
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nilemarezz)](https://github.com/anuraghazra/github-readme-stats)
+
 
 [website]: http://my-portfolio-matas.herokuapp.com/
 [facebook]: https://www.facebook.com/nilematas.paosriwong

@@ -5,8 +5,8 @@
 ## I'm a Web, Mobile Developer 
 
 - 📕 I’m study at School of Information Technology, King Mongkut's University of Technology Thonburi
-- 🌱 I’m 20 years old
-- 💗 I love to play durms and K-Pop Fans 💗
+- 🌱 I’m 21 years old
+- 💗 I love to play drums and K-Pop Fans 💗
 
 ### Connect with me:
 

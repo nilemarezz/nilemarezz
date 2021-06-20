@@ -11,7 +11,7 @@
 ### Connect with me:
 
 [<img align="left" alt="web" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
-[<img align="left" alt="facebook | YouTube" width="22px" src="https://www.iconfinder.com/data/icons/free-social-icons/67/facebook_circle_black-512.png" />][facebook]
+[<img align="left" alt="facebook | YouTube" width="22px" src="https://i.pinimg.com/originals/b7/63/69/b763699fd1fa3bfb374442593ae642e1.png" />][facebook]
 [<img align="left" alt="codeSTACKr | Twitter" width="22px" src="https://icons-for-free.com/iconfiles/png/512/part+1+github-1320568339880199515.png" />][github]
 [<img align="left" alt="codeSTACKr | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 

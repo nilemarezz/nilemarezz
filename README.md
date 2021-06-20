@@ -2,18 +2,14 @@
 
 ---
 
-## I'm a Web, Mobile Developer 
+## I'm a Software Engineer 
 
-- 📕 I’m study at School of Information Technology, King Mongkut's University of Technology Thonburi
-- 🌱 I’m 21 years old
-- 💗 I love to play drums and K-Pop 💗
+- 📕 I’m graduated from School of Information Technology, King Mongkut's University of Technology Thonburi
 
 ### Connect with me:
 
 [<img align="left" alt="web" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
 [<img align="left" alt="facebook | YouTube" width="22px" src="https://i.pinimg.com/originals/b7/63/69/b763699fd1fa3bfb374442593ae642e1.png" />][facebook]
-[<img align="left" alt="codeSTACKr | Twitter" width="22px" src="https://icons-for-free.com/iconfiles/png/512/part+1+github-1320568339880199515.png" />][github]
-[<img align="left" alt="codeSTACKr | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 
 <br />
 
@@ -53,5 +49,4 @@
 
 [website]: http://my-portfolio-matas.herokuapp.com/
 [facebook]: https://www.facebook.com/nilematas.paosriwong
-[instagram]: https://www.instagram.com/mt_nile/?hl=en
 [github]: https://github.com/nilemarezz

@@ -22,3 +22,6 @@
   <img alt="MongoDB" src="https://img.shields.io/badge/-MongoDB-13aa52?style=flat-square&logo=mongodb&logoColor=white" />
   <img alt="my" src="https://img.shields.io/badge/MySQL-005C84?style=flat-square&logo=mysql&logoColor=white" />
 </p>
+
+
+![nilemarezz's GitHub stats](https://github-readme-stats.vercel.app/api?username=nilemarezz&show_icons=true&theme=transparent)
